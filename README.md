@@ -3,23 +3,26 @@ Exclusive community to share Technical Artifacts emphasizing the current industr
 
 ----------
 
-### Collaborators
+### Technology Areas
 
-| <img width=50/> Name <img width=50/> | <img width=50/>  Image <img width=50/> |
+| <img width=50/> Technology Area <img width=50/> | <img width=50/>   Sub Areas<img width=50/> |
 |--|--|
-| `Joydeep` |![Joydeep](https://techstackify.github.io/img/joydeep.jpg)|
-|`Sabir`|Image|
-|`Shikha`|Image|
+| `Cloud Computing` |1. Microsoft Azure
+2. Amazon Web Services
+3. Google Cloud
+4. Cloud Foundry
+|
+|`AI`|1. Machine Learning
+2. Deep Learning
+3. Data Science
+|
+|`Programming Language`|1. Python
+2. C#.NET
+3. Javascript Framework
+|
 
 ----------
 
-### Technology Stack
+### Thought Process
 
-1. Microsoft Azure
-2. RPA using UIPath
-3. C#.NET
-4. Python
-5. Docker
-6. Kubernetes
-7. Machine Learning
-8. Automation
+
