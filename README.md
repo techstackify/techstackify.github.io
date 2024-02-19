@@ -11,3 +11,11 @@ Exclusive community to share Technical Artifacts emphasizing the current industr
 
 ### Technology Stack
 
+1. Microsoft Azure
+2. RPA using UIPath
+3. C#.NET
+4. Python
+5. Docker
+6. Kubernetes
+7. Machine Learning
+8. Automation
