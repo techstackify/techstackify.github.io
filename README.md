@@ -9,5 +9,4 @@ Exclusive community to share Technical Artifacts emphasizing the current industr
 |`Sabir`|Image|
 |`Shikha`|Image|
 
-
-
+### Technology Stack
